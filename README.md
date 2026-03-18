@@ -15,7 +15,8 @@ Website ini dibuat sebagai portfolio personal untuk menampilkan informasi mengen
 # 🖥️ Tampilan Setiap Section / Fitur
 
 ## 🔹 1. Hero Section
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/e6fa53e6-5adb-4645-a5b6-c691f132fb64" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/42def97e-93d9-4ce7-a7fb-a16606590b56" />
+
 
 Menampilkan:
 - Nama lengkap
@@ -25,7 +26,7 @@ Menampilkan:
 ---
 
 ## 🔹 2. About Me Section
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/73117caf-6643-4a56-a3b5-ffede31a61eb" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2825f31e-4c3b-43df-b871-da438068f05f" />
 
 
 Menampilkan:
@@ -37,7 +38,7 @@ Menampilkan:
 ---
 
 ## 🔹 3. Certificates Section
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c2f007ce-0521-4c28-bba0-5333e5a02243" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/e25f7d2b-3565-4399-b29a-d44f940cd45f" />
 
 Menampilkan:
 - Daftar sertifikat dalam bentuk card
@@ -46,7 +47,7 @@ Menampilkan:
 ---
 
 ## 🔹 4. Navbar
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/5e735eb5-bedb-4da3-85ad-0cd8a9779237" />
+<img width="1200" height="209" alt="image" src="https://github.com/user-attachments/assets/0b70cf11-fc19-42ec-880e-93c1d35f40bd" />
 
 Menampilkan:
 - Logo WIPEBRI
