@@ -1,0 +1,127 @@
+/*Global*/
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding-top: 56px;
+}
+
+section {
+    scroll-margin-top: 56px;
+}
+
+.container {
+    overflow: hidden;
+}
+
+/*Hero*/
+.hero-section {
+    min-height: calc(100vh - 56px);
+    justify-content: center;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #eaeaea;
+}
+
+#home h1 {
+    letter-spacing: 1px;
+}
+
+/*Navbar*/
+.navbar {
+    letter-spacing: 1px;
+}
+
+/*About Me*/
+.about-section {
+    min-height: calc(100vh - 56px);
+    padding-bottom: 60px;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.about-section h2 {
+    margin-top: 30px;
+}
+
+#about .col-md-6:first-child {
+    padding-right: 20px;
+}
+
+#about ul {
+    list-style: disc;
+    padding-left: 1rem;
+}
+
+#about ul li {
+    margin-bottom: 6px;
+}
+
+.about-description {
+    text-align: justify;
+    line-height: 1.9;
+}
+
+.small-skill small {
+    font-size: 13px;
+}
+
+.skill-progress {
+    height: 6px;
+}
+
+.photo-wrapper {
+    position: relative;
+    width: 100%;
+    width: 360px;
+    height: 460px;
+    margin: 0 auto;
+}
+
+.photo-box {
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    height: 70%;
+    background-color: #2b2b2f;
+    border-radius: 25px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.about-photo {
+    position: absolute;
+    bottom: 0;
+    left: 52%;
+    transform: translateX(-50%);
+    max-height: 100%;
+    width: auto;
+}
+
+/* Certificates*/
+.cert-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f8f9fa;
+}
+
+.certificate-card {
+    background: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: 0.3s ease;
+}
+
+.certificate-card:hover {
+    transform: translateY(-8px);
+}
+
+.certificate-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    padding: 15px;
+}
+
+#certificates {
+    scroll-margin-top: 20px;
+
+}
